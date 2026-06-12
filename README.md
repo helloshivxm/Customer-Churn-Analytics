@@ -22,10 +22,7 @@ Quantify business impact
 Improve retention efforts
 
 # 🛠 Tools & Technologies
-SQL
-Excel
-Power BI
-DAX
+SQL, Excel, Power BI, DAX
 
 # Project Structure
 Customer Churn Analysis
@@ -52,7 +49,7 @@ Average Tenure	32.37 Months
 1. New Customers Are Most Likely To Churn
 Customers with tenure between 0–12 months exhibit the highest churn rate.
 
-# Business Impact: 
+Business Impact: 
 Lower customer lifetime value
 Higher acquisition costs
 Reduced retention
@@ -61,7 +58,7 @@ Reduced retention
 
 88.55% of churned customers are on Month-to-Month contracts.
 
-# Business Impact
+Business Impact
 
 Low commitment
 Higher switching behavior
@@ -71,7 +68,7 @@ Revenue instability
 
 Approximately ₹139K revenue is currently associated with churned customers.
 
-# Business Impact
+Business Impact
 
 Revenue leakage
 Reduced profitability
