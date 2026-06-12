@@ -138,4 +138,4 @@ Shivam Yadav
 
 LinkedIn: linkedin.com/in/helloshivam
 
-GitHub: github.com/hellshivxm
+GitHub: github.com/helloshivxm
