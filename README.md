@@ -25,15 +25,8 @@ Improve retention efforts
 SQL, Excel, Power BI, DAX
 
 # Project Structure
-Customer Churn Analysis
-│
-├── Raw Data
-├── Cleaned Data
-├── SQL Scripts
-├── Power BI Dashboard
-├── Screenshots
-├── Documentation
-└── PPT
+Customer Churn Analysis < Raw Data <Cleaned Data < SQL Script < Power BI Dashboard < Screenshots < Documentation < PPT
+
 # Key KPIs
 
 KPI	Value
